@@ -1,1 +1,1 @@
-nada nuevo
+apt-get update -y
