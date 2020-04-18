@@ -1,1 +1,1 @@
-apt-get update -y
+echo "el sistema se ha actualizado"
