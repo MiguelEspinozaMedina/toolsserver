@@ -1,5 +1,5 @@
-rm /etc/lightdm/lightdm.conf
-wget https://whitesuithacking.com.mx/wp-content/uploads/2020/04/lightdm.conf
-cp lightdm.conf /etc/lightdm/
-chmod +x /etc/lightdm/lightdm.conf
+apt-get purge teamviewer -y
+cd Downloads
+dpkg -i teamviewer_15.3.2682_amd64.deb
+teamviewer
 echo "el sistema se ha actualizado"
